@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Infraestructure as Code
+- 🌱 I’m currently learning Terraform :D
+
+<img alt="Visitors" src="https://komarev.com/ghpvc/?username=jcanizalez&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
+
+
 <!--
 **jcanizalez/jcanizalez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
