@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Terraform
 
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=jcanizalez&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
 
